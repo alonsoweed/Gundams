@@ -1,0 +1,8 @@
+
+(gedit:6606): Gdk-WARNING **: gedit: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gedit:3144): Gdk-WARNING **: gedit: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(gedit:2491): GLib-GObject-CRITICAL **: g_value_set_object: assertion 'G_VALUE_HOLDS_OBJECT (value)' failed

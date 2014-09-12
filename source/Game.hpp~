@@ -13,7 +13,6 @@ private:
 	bool moving_right;
 	sf::Texture main_texture;
 	sf::Sprite main_sprite;
-	
 
 public:
 	Game();

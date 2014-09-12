@@ -1,12 +1,18 @@
+#include <SFML/Graphics.hpp>
+#include <SFML/Window.hpp>
+#include <SFML/System.hpp>
+#include <string>
+
 class Game
 {
 
 private:
 	sf::RenderWindow main_window;
-	
+	sf::CircleShape first_player;	
+
 public:
 	Game();
-	~Game();
+	//~Game();
 	void run();
 	
 private: 
@@ -14,9 +20,6 @@ private:
 	void update();	
 	void render();
 	
-
-
-
 
 
 
